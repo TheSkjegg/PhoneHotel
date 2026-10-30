@@ -1,0 +1,15 @@
+BOM - Bill of Material
+
+ - Arduino Nano (or any Arduino UNO like board)
+ - PCB (optional)
+ - Passive buzzer, ABT-402-RC
+ - MAX7219 Led Module 8-Digit 7 Segment Display
+ - RGB LED strip ws2812b 30LEDs/M (windows)
+ - RGB LED strip ws2812b 60LEDs/M (hotel sign)
+ - Micro Limit Switches (KW4-3Z-3)
+ - 2x 220ohm resistors
+ - USB cable
+ - Wires 
+ - RC Servo cable (nice for RGB LED strips)
+ - M2,5 x 10mm screws
+ 
